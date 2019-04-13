@@ -6,6 +6,7 @@
 
 <body>
     <h1>Welcome Hello ${helloMessage}!</h1>
+    <h2>Age parameter is: ${age}</h2>
     <h2>${welcomeMessage}</h2>
 </body>
 
